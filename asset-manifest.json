@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bill-TipCalculator/static/css/main.c78da7b8.chunk.css",
+    "main.js": "/Bill-TipCalculator/static/js/main.045ef08d.chunk.js",
+    "main.js.map": "/Bill-TipCalculator/static/js/main.045ef08d.chunk.js.map",
+    "runtime-main.js": "/Bill-TipCalculator/static/js/runtime-main.cabc5d29.js",
+    "runtime-main.js.map": "/Bill-TipCalculator/static/js/runtime-main.cabc5d29.js.map",
+    "static/js/2.4678759e.chunk.js": "/Bill-TipCalculator/static/js/2.4678759e.chunk.js",
+    "static/js/2.4678759e.chunk.js.map": "/Bill-TipCalculator/static/js/2.4678759e.chunk.js.map",
+    "static/js/3.11f9ba49.chunk.js": "/Bill-TipCalculator/static/js/3.11f9ba49.chunk.js",
+    "static/js/3.11f9ba49.chunk.js.map": "/Bill-TipCalculator/static/js/3.11f9ba49.chunk.js.map",
+    "index.html": "/Bill-TipCalculator/index.html",
+    "static/css/main.c78da7b8.chunk.css.map": "/Bill-TipCalculator/static/css/main.c78da7b8.chunk.css.map",
+    "static/js/2.4678759e.chunk.js.LICENSE.txt": "/Bill-TipCalculator/static/js/2.4678759e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cabc5d29.js",
+    "static/js/2.4678759e.chunk.js",
+    "static/css/main.c78da7b8.chunk.css",
+    "static/js/main.045ef08d.chunk.js"
+  ]
+}
